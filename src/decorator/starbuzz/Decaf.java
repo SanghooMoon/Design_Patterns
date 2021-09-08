@@ -1,4 +1,4 @@
-package decorator;
+package decorator.starbuzz;
 
 public class Decaf extends Beverage {
 	public Decaf() {
